@@ -1,100 +1,115 @@
+Here is the raw code for the **"Mission Control / Futuristic Terminal"** themed README. You can copy this entire block and paste it directly into your GitHub `README.md` file.
+
+```markdown
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3595F7&center=true&vCenter=true&width=600&lines=Hi,+I'm+Saksham+Sahu;AI+Systems+Engineer;Agentic+AI+Developer;Space+Tech+Enthusiast;Math+%26+Computing+Major" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=250&section=header&text=SAKSHAM%20SAHU&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Architecting%20Intelligence%20%7C%20Exploring%20the%20Cosmos%20via%20Code&descAlignY=60&descAlign=50&stroke=00FF00&strokeWidth=2" width="100%" alt="Saksham Header" />
 </div>
 
 <div align="center">
-  <a href="https://sakshamsahu.in">
-    <img src="https://img.shields.io/badge/Portfolio-sakshamsahu.in-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=System.init(Agentic_AI);Loading+module:+Space_Tech...;Target:+NASA+JPL+%2F+Goldman+Sachs;Status:+Building+the+Future." alt="Typing SVG" />
   </a>
-  <a href="https://linkedin.com/in/sakshamsahu333">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.kaggle.com/sakshamsahu333">
-    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-  </a>
-  <a href="mailto:sahusaksham333@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+</div>
+
+<div align="center">
+  <a href="https://sakshamsahu.in"><img src="https://img.shields.io/badge/Mainframe-sakshamsahu.in-000000?style=for-the-badge&logo=firefox&logoColor=00FF00&border=00FF00" alt="Website"/></a>
+  <a href="https://linkedin.com/in/sakshamsahu333"><img src="https://img.shields.io/badge/Network-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00&border=00FF00" alt="LinkedIn"/></a>
+  <a href="https://www.kaggle.com/sakshamsahu333"><img src="https://img.shields.io/badge/Data_Bank-Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=00FF00&border=00FF00" alt="Kaggle"/></a>
+  <a href="mailto:sahusaksham333@gmail.com"><img src="https://img.shields.io/badge/Comms-Email_Me-000000?style=for-the-badge&logo=gmail&logoColor=00FF00&border=00FF00" alt="Email"/></a>
+</div>
+
+<br />
+
+### 👨‍💻 `User_Profile.json`
+
+```json
+{
+  "user": "Saksham Sahu",
+  "education": "B.Tech Mathematics & Computing, MITS Gwalior",
+  "current_role": "Junior Agentic AI Developer @ SmaranAI",
+  "core_focus": ["Agentic Workflows", "MLOps", "Space Technology"],
+  "mission": "To engineer scalable AI systems that solve Earth's energy problems and aid extraterrestrial exploration."
+}
+
+```
+
+---
+
+### 🛠️ `System_Architecture` (Tech Stack)
+
+<div align="center">
+
+| **Compute Core (Langs)** | **Neural Engines (AI/ML)** | **Infrastructure (Ops)** |
+| --- | --- | --- |
+| 
+
+ | 
+
+ | 
+
+ |
+
+</div>
+
+---
+
+### 🚀 `Mission_Logs` (Projects)
+
+| 🛰️ **Project ID** | 📝 **Description** | 💻 **Tech Stack** |
+| --- | --- | --- |
+| **Solar Power Data Pipeline** | **Goal:** Decoding efficiency drivers in solar energy.<br>
+
+<br>**Outcome:** Weather-linked statistical insights for green energy optimization. | `Python` `Pandas` `Statistical Modeling` |
+| **Agentic AI Chatbot** | **Goal:** Real-time inference & interactive analysis.<br>
+
+<br>**Outcome:** A custom RAG-enabled bot integrated with Hugging Face. | `Hugging Face API` `RAG` `Custom Agents` |
+| **Multilingual Health AI** | **Goal:** Democratizing healthcare diagnostics.<br>
+
+<br>**Outcome:** NLP agents providing localized health insights for non-English speakers. | `NLP` `Deep Learning` `Agentic AI` |
+
+---
+
+### 📡 `Experience_Transmission`
+
+**[2025 - Present]**   🟢 **Junior Agentic AI Developer** | *SmaranAI.in*
+
+> <i>"Developing autonomous agents and refining AI logic."</i>
+
+**[2024 - Present]**   🟡 **Executive** | *Startup Cell MITS*
+
+> <i>"Fostering the next generation of innovators."</i>
+
+---
+
+### 📊 `Telemetry_Data` (GitHub Stats)
+
+<div align="center">
+<table width="100%">
+<tr>
+<td width="50%">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DSahusaksham333%26show_icons%3Dtrue%26theme%3Dreact%26bg_color%3D0D1117%26title_color%3D00FF00%26text_color%3DFFFFFF%26icon_color%3D00FF00%26hide_border%3Dtrue" width="100%" />
+</td>
+<td width="50%">
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DSahusaksham333%26theme%3Dreact%26bg_color%3D0D1117%26date_format%3Dj%2520M%255B%2520Y%255D%26ring%3D00FF00%26fire%3D00FF00%26currStreakLabel%3D00FF00%26hide_border%3Dtrue" width="100%" />
+</td>
+</tr>
+</table>
+
+
+
+
+
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DSahusaksham333%26layout%3Dcompact%26theme%3Dreact%26bg_color%3D0D1117%26title_color%3D00FF00%26text_color%3DFFFFFF%26hide_border%3Dtrue" width="60%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Building%20Scalable%20AI%20For%20Earth%20%26%20Space&fontSize=30&animation=fadeIn&fontAlignY=38&descAlignY=55&descAlign=62" width="100%"/>
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D00FF00%26height%3D100%26section%3Dfooter" width="100%" />
+<br />
+<code>"Numbers first, meaning always." - Saksham Sahu</code>
 </div>
 
-### 👨‍💻 About Me
+```
 
-I am a **Mathematics and Computing Engineer** based in Indore, India. My work lies at the intersection of rigorous mathematical modeling and scalable AI systems. 
-
-Currently, I am focused on **Agentic AI workflows** and **MLOps**, striving to bridge the gap between theoretical research and production-grade applications. My long-term objective is to leverage data-driven solutions to advance Space Technology and Earth Science.
-
-* 🔭 **Working as:** Junior Agentic AI Developer at **SmaranAI.in**.
-* 🌱 **Learning:** Advanced RAG Pipelines, Cloud Architecture (GCP/AWS), and Deep Learning Optimization.
-* 🚀 **Mission:** Exploring AI applications for NASA's Jet Propulsion Laboratory and sustainable energy systems.
-* 💡 **Soft Skills:** Research-Oriented Problem Solving, Analytical Thinking, and Technical Communication.
-
----
-
-### 🛠️ The Arsenal
-
-| **Core Languages** | **AI & Machine Learning** | **DevOps & Cloud** |
-|:---:|:---:|:---:|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
-| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) | ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
-| | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white) ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-
----
-
-### 🛰️ Featured Projects
-
-#### ☀️ [Solar Power Plant Data Analysis](https://github.com/Sahusaksham333)
-> *Scalable Data Pipeline & Statistical Analysis*
-* **The Mission:** Analyze and visualize solar plant performance to reveal efficiency drivers.
-* **The Tech:** Built a Python-based data pipeline utilizing Pandas and statistical modeling.
-* **The Result:** Uncovered weather-linked efficiency insights to aid in green energy optimization.
-
-#### 🤖 [Agentic AI Chatbot](https://github.com/Sahusaksham333)
-> *Interactive Analysis & RAG Pipeline*
-* **The Mission:** Enable real-time model inference and interactive data analysis.
-* **The Tech:** Integrated **Hugging Face API** with a custom chatbot interface and Retrieval-Augmented Generation (RAG) techniques.
-* **The Result:** A context-aware agent capable of complex user interaction.
-
-#### 🏥 [Multilingual Disease Prediction System](https://github.com/Sahusaksham333)
-> *NLP & Healthcare Accessibility*
-* **The Mission:** Deliver localized diagnostics to non-English speakers.
-* **The Tech:** Engineered NLP agents and Deep Learning models for multilingual support.
-* **The Result:** A prototype enhancing healthcare accessibility through predictive analytics.
-
----
-
-### ⚡ Professional Experience & Leadership
-
-* **Junior Agentic AI Developer** | *SmaranAI.in* (Nov 2025 - Present)
-    * Developing autonomous agent workflows and AI pipelines.
-* **Executive** | *Startup Cell MITS* (2024 - Present)
-    * Fostering innovation and entrepreneurial thinking.
-* **Technical Head Member** | *Soft Civil Club MITS* (2024 - Present)
-    * Leading technical problem-solving and project coordination.
-
----
-
-### 📜 Certifications
-* **5-Day Gen AI Intensive**
-* **Startup School: Prompt to Prototype** (Google for Startups & Scaler)
-* **Analytica Participation** (TantraFiesta '24)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sahusaksham333&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Saksham's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahusaksham333&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Saksham's Top Langs" />
-</div>
-
-<br/>
-
-<div align="center">
-  <i>"I do not view spreadsheets as static tables; I see systems governed by logic, uncertainty, and incentives."</i>
-</div>
+```
