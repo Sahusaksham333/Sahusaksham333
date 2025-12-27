@@ -1,113 +1,151 @@
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=250&section=header&text=SAKSHAM%20SAHU&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Architecting%20Intelligence%20%7C%20Exploring%20the%20Cosmos%20via%20Code&descAlignY=60&descAlign=50&stroke=00FF00&strokeWidth=2" width="100%" alt="Saksham Header" />
-</div>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=System.init(Agentic_AI);Loading+module:+Space_Tech...;Target:+NASA+JPL+%2F+Goldman+Sachs;Status:+Building+the+Future." alt="Typing SVG" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://sakshamsahu.in"><img src="https://img.shields.io/badge/Mainframe-sakshamsahu.in-000000?style=for-the-badge&logo=firefox&logoColor=00FF00&border=00FF00" alt="Website"/></a>
-  <a href="https://linkedin.com/in/sakshamsahu333"><img src="https://img.shields.io/badge/Network-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00&border=00FF00" alt="LinkedIn"/></a>
-  <a href="https://www.kaggle.com/sakshamsahu333"><img src="https://img.shields.io/badge/Data_Bank-Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=00FF00&border=00FF00" alt="Kaggle"/></a>
-  <a href="mailto:sahusaksham333@gmail.com"><img src="https://img.shields.io/badge/Comms-Email_Me-000000?style=for-the-badge&logo=gmail&logoColor=00FF00&border=00FF00" alt="Email"/></a>
-</div>
-
-<br />
-
-### 👨‍💻 `User_Profile.json`
-
-```json
-{
-  "user": "Saksham Sahu",
-  "education": "B.Tech Mathematics & Computing, MITS Gwalior",
-  "current_role": "Junior Agentic AI Developer @ SmaranAI",
-  "core_focus": ["Agentic Workflows", "MLOps", "Space Technology"],
-  "mission": "To engineer scalable AI systems that solve Earth's energy problems and aid extraterrestrial exploration."
-}
-
-```
-
----
-
-### 🛠️ `System_Architecture` (Tech Stack)
+<!-- ========================= HERO ========================= -->
 
 <div align="center">
 
-| **Compute Core (Langs)** | **Neural Engines (AI/ML)** | **Infrastructure (Ops)** |
-| --- | --- | --- |
-| 
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Hello%2C+I’m+Saksham+Sahu;Engineer+of+Mathematics+%26+Intelligence;Designing+Agentic+AI+Systems;Building+AI+for+Earth+%26+Space;Future+Space-Tech+Researcher" />
 
- | 
+<br/>
 
- | 
-
- |
+<a href="https://sakshamsahu.in">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-sakshamsahu.in-1f6feb?style=for-the-badge"/>
+</a>
+<a href="https://linkedin.com/in/sakshamsahu333">
+  <img src="https://img.shields.io/badge/LinkedIn-Saksham_Sahu-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="https://www.kaggle.com/sakshamsahu333">
+  <img src="https://img.shields.io/badge/Kaggle-Data_Experiments-20BEFF?style=for-the-badge&logo=kaggle"/>
+</a>
+<a href="mailto:sahusaksham333@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Research_Collab-D14836?style=for-the-badge&logo=gmail"/>
+</a>
 
 </div>
 
 ---
 
-### 🚀 `Mission_Logs` (Projects)
+<!-- ========================= BANNER ========================= -->
 
-| 🛰️ **Project ID** | 📝 **Description** | 💻 **Tech Stack** |
-| --- | --- | --- |
-| **Solar Power Data Pipeline** | **Goal:** Decoding efficiency drivers in solar energy.<br>
-
-<br>**Outcome:** Weather-linked statistical insights for green energy optimization. | `Python` `Pandas` `Statistical Modeling` |
-| **Agentic AI Chatbot** | **Goal:** Real-time inference & interactive analysis.<br>
-
-<br>**Outcome:** A custom RAG-enabled bot integrated with Hugging Face. | `Hugging Face API` `RAG` `Custom Agents` |
-| **Multilingual Health AI** | **Goal:** Democratizing healthcare diagnostics.<br>
-
-<br>**Outcome:** NLP agents providing localized health insights for non-English speakers. | `NLP` `Deep Learning` `Agentic AI` |
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=Engineering%20Intelligence%20at%20Scale&fontSize=36&animation=fadeIn&fontAlignY=40&desc=From%20Mathematical%20Theory%20to%20Autonomous%20AI%20Systems&descAlignY=65" width="100%"/>
 
 ---
 
-### 📡 `Experience_Transmission`
+## 🧠 Who Am I?
 
-**[2025 - Present]**   🟢 **Junior Agentic AI Developer** | *SmaranAI.in*
+I am a **Mathematics & Computing Engineer** who treats AI not as a black box, but as a **system governed by structure, constraints, and objectives**.
 
-> <i>"Developing autonomous agents and refining AI logic."</i>
+My work focuses on:
+- **Agentic AI systems**
+- **Autonomous decision pipelines**
+- **Production-grade MLOps**
+- **Data-centric model thinking**
 
-**[2024 - Present]**   🟡 **Executive** | *Startup Cell MITS*
+I aim to contribute to **Space Technology, Earth Science, and Sustainable Energy systems**, where reliability, interpretability, and scalability matter more than hype.
 
-> <i>"Fostering the next generation of innovators."</i>
+> *“Good AI is not magic. It is disciplined engineering.”*
 
 ---
 
-### 📊 `Telemetry_Data` (GitHub Stats)
+## 🚀 Current Trajectory
+
+- 🧑‍💻 **Role:** Junior Agentic AI Developer @ **SmaranAI.in**
+- 🔬 **Focus Areas:**  
+  - Agent orchestration (LangGraph, RAG systems)  
+  - ML system reliability & evaluation  
+  - Data validation pipelines  
+- 🌌 **Long-Term Vision:** AI research & engineering for **NASA JPL–scale systems**
+- 🧩 **Strengths:** Analytical reasoning, system design, technical clarity
+
+---
+
+## 🛠️ Technology Stack (Battle-Tested)
+
+### Core Computing
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python)
+![C++](https://img.shields.io/badge/C++-Systems-00599C?style=flat-square&logo=c%2B%2B)
+![SQL](https://img.shields.io/badge/SQL-Data_Logic-4479A1?style=flat-square&logo=postgresql)
+
+### AI & Data
+![PyTorch](https://img.shields.io/badge/PyTorch-Modeling-EE4C2C?style=flat-square&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Production-FF6F00?style=flat-square&logo=tensorflow)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Statistics-F7931E?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-Data_Engineering-150458?style=flat-square)
+
+### Agentic & LLM Systems
+![LangChain](https://img.shields.io/badge/LangChain-Agents-1C3C3C?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/Hugging_Face-LLMs-FFD21E?style=flat-square)
+
+### Cloud & MLOps
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=flat-square)
+![GCP](https://img.shields.io/badge/GCP-Cloud_AI-4285F4?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-Infrastructure-232F3E?style=flat-square)
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=flat-square)
+
+---
+
+## 🛰️ Selected Work
+
+### ☀️ Solar Power Plant Intelligence System
+**Problem:** Energy efficiency varies due to hidden environmental interactions  
+**Solution:** Statistical + data-driven pipeline  
+**Impact:** Actionable insights for sustainable power optimization  
+
+> *Built end-to-end data pipelines, not dashboards.*
+
+---
+
+### 🤖 Agentic AI Chatbot (RAG-Based)
+**Problem:** Static chatbots fail under complex reasoning  
+**Solution:** Multi-step agent reasoning with retrieval  
+**Impact:** Context-aware autonomous assistant  
+
+> *From prompts → plans → actions.*
+
+---
+
+### 🏥 Multilingual Disease Prediction System
+**Problem:** Language barriers reduce healthcare access  
+**Solution:** NLP-driven multilingual prediction  
+**Impact:** Improved accessibility for non-English users  
+
+> *AI that adapts to humans, not the other way around.*
+
+---
+
+## 🧑‍🚀 Leadership & Impact
+
+- **Junior Agentic AI Developer** — *SmaranAI.in*
+- **Executive Member** — *Startup Cell, MITS*
+- **Technical Head Member** — *Soft Civil Club, MITS*
+
+I enjoy **owning systems**, not just tasks.
+
+---
+
+## 📜 Certifications & Programs
+
+- ✅ Gen AI Intensive Program  
+- ✅ Google for Startups — *Prompt to Prototype*  
+- ✅ Analytica (TantraFiesta ’24)
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-<table width="100%">
-<tr>
-<td width="50%">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DSahusaksham333%26show_icons%3Dtrue%26theme%3Dreact%26bg_color%3D0D1117%26title_color%3D00FF00%26text_color%3DFFFFFF%26icon_color%3D00FF00%26hide_border%3Dtrue" width="100%" />
-</td>
-<td width="50%">
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DSahusaksham333%26theme%3Dreact%26bg_color%3D0D1117%26date_format%3Dj%2520M%255B%2520Y%255D%26ring%3D00FF00%26fire%3D00FF00%26currStreakLabel%3D00FF00%26hide_border%3Dtrue" width="100%" />
-</td>
-</tr>
-</table>
-
-
-
-
-
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DSahusaksham333%26layout%3Dcompact%26theme%3Dreact%26bg_color%3D0D1117%26title_color%3D00FF00%26text_color%3DFFFFFF%26hide_border%3Dtrue" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sahusaksham333&show_icons=true&theme=github_dark&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahusaksham333&layout=compact&theme=github_dark&hide_border=true" height="180"/>
 </div>
 
-<br />
+---
+
+## 🧭 Engineering Philosophy
+
+> **“I don’t see datasets as rows and columns.  
+> I see constraints, incentives, uncertainty, and systems waiting to be optimized.”**
+
+---
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D00FF00%26height%3D100%26section%3Dfooter" width="100%" />
-<br />
-<code>"Numbers first, meaning always." - Saksham Sahu</code>
+  <b>Let’s build intelligence that survives reality.</b>
 </div>
-
-```
-
-```
