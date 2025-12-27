@@ -1,6 +1,4 @@
-Here is the raw code for the **"Mission Control / Futuristic Terminal"** themed README. You can copy this entire block and paste it directly into your GitHub `README.md` file.
 
-```markdown
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=250&section=header&text=SAKSHAM%20SAHU&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Architecting%20Intelligence%20%7C%20Exploring%20the%20Cosmos%20via%20Code&descAlignY=60&descAlign=50&stroke=00FF00&strokeWidth=2" width="100%" alt="Saksham Header" />
 </div>
