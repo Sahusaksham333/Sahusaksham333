@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Hello%2C+I’m+Saksham+Sahu;Engineer+of+Mathematics+%26+Intelligence;Designing+Agentic+AI+Systems;Building+AI+for+Earth+%26+Space;Future+Space-Tech+Researcher" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Hello%2C+I’m+Saksham+Sahu;Agentic+AI+Developer;Designing+Autonomous+Reasoning+Systems;From+Data+to+Decisions+to+Actions" />
 
 <br/>
 
@@ -13,120 +13,122 @@
   <img src="https://img.shields.io/badge/LinkedIn-Saksham_Sahu-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 <a href="https://www.kaggle.com/sakshamsahu333">
-  <img src="https://img.shields.io/badge/Kaggle-Data_Experiments-20BEFF?style=for-the-badge&logo=kaggle"/>
+  <img src="https://img.shields.io/badge/Kaggle-Agentic_Experiments-20BEFF?style=for-the-badge&logo=kaggle"/>
 </a>
 <a href="mailto:sahusaksham333@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Research_Collab-D14836?style=for-the-badge&logo=gmail"/>
+  <img src="https://img.shields.io/badge/Email-AI_Collaboration-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
 </div>
 
 ---
 
-<!-- ========================= BANNER ========================= -->
+## 🧠 About Me — Agentic AI Focus
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=Engineering%20Intelligence%20at%20Scale&fontSize=36&animation=fadeIn&fontAlignY=40&desc=From%20Mathematical%20Theory%20to%20Autonomous%20AI%20Systems&descAlignY=65" width="100%"/>
+I am an **Agentic AI Developer** who builds **autonomous systems that reason, plan, and act**—not prompt-only chatbots.
 
----
+I focus on **engineering intelligence as a system**, where agents operate under:
+- clear objectives
+- structured constraints
+- feedback-driven improvement
 
-## 🧠 Who Am I?
+My work emphasizes **robust decision pipelines**, **tool-using agents**, and **production-ready reasoning architectures**.
 
-I am a **Mathematics & Computing Engineer** who treats AI not as a black box, but as a **system governed by structure, constraints, and objectives**.
-
-My work focuses on:
-- **Agentic AI systems**
-- **Autonomous decision pipelines**
-- **Production-grade MLOps**
-- **Data-centric model thinking**
-
-I aim to contribute to **Space Technology, Earth Science, and Sustainable Energy systems**, where reliability, interpretability, and scalability matter more than hype.
-
-> *“Good AI is not magic. It is disciplined engineering.”*
+> *“An agent is only intelligent if it can decide under uncertainty and act responsibly.”*
 
 ---
 
-## 🚀 Current Trajectory
+## 🚀 What I Work On
 
-- 🧑‍💻 **Role:** Junior Agentic AI Developer @ **SmaranAI.in**
-- 🔬 **Focus Areas:**  
-  - Agent orchestration (LangGraph, RAG systems)  
-  - ML system reliability & evaluation  
-  - Data validation pipelines  
-- 🌌 **Long-Term Vision:** AI research & engineering for **NASA JPL–scale systems**
-- 🧩 **Strengths:** Analytical reasoning, system design, technical clarity
+- 🧩 **Agent orchestration & control flows**
+- 🔁 **Multi-step reasoning & planning**
+- 📚 **Retrieval-Augmented Generation (RAG)**
+- 🧪 **Agent evaluation & reliability**
+- ⚙️ **Data validation for autonomous systems**
 
 ---
 
-## 🛠️ Technology Stack (Battle-Tested)
+## 🧑‍💻 Current Role
 
-### Core Computing
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python)
-![C++](https://img.shields.io/badge/C++-Systems-00599C?style=flat-square&logo=c%2B%2B)
-![SQL](https://img.shields.io/badge/SQL-Data_Logic-4479A1?style=flat-square&logo=postgresql)
+**Junior Agentic AI Developer — SmaranAI.in**
 
-### AI & Data
-![PyTorch](https://img.shields.io/badge/PyTorch-Modeling-EE4C2C?style=flat-square&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Production-FF6F00?style=flat-square&logo=tensorflow)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Statistics-F7931E?style=flat-square)
-![Pandas](https://img.shields.io/badge/Pandas-Data_Engineering-150458?style=flat-square)
+- Designed and tested **agent workflows** using LangGraph-style orchestration  
+- Built **RAG pipelines** for context-aware decision making  
+- Analyzed agent failures, hallucinations, and tool misuse  
+- Improved **agent reliability through structured data validation**  
+- Documented agent behavior for technical and non-technical stakeholders  
 
-### Agentic & LLM Systems
-![LangChain](https://img.shields.io/badge/LangChain-Agents-1C3C3C?style=flat-square)
+> I work on **how agents think**, not just what they say.
+
+---
+
+## 🛠️ Agentic AI Tech Stack
+
+### Core Language & Data
+![Python](https://img.shields.io/badge/Python-Core-3776AB?style=flat-square&logo=python)
+![SQL](https://img.shields.io/badge/SQL-Decision_Data-4479A1?style=flat-square&logo=postgresql)
+
+### Agent & LLM Systems
+![LangChain](https://img.shields.io/badge/LangChain-Agent_Framework-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-Orchestration-2F4F4F?style=flat-square)
 ![HuggingFace](https://img.shields.io/badge/Hugging_Face-LLMs-FFD21E?style=flat-square)
 
-### Cloud & MLOps
-![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=flat-square)
-![GCP](https://img.shields.io/badge/GCP-Cloud_AI-4285F4?style=flat-square)
+### ML & Reasoning Support
+![PyTorch](https://img.shields.io/badge/PyTorch-Model_Support-EE4C2C?style=flat-square)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Statistics-F7931E?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-Data_Pipelines-150458?style=flat-square)
+
+### MLOps & Deployment
+![Docker](https://img.shields.io/badge/Docker-Agent_Environments-2496ED?style=flat-square)
+![Git](https://img.shields.io/badge/Git-System_Versioning-F05032?style=flat-square)
 ![AWS](https://img.shields.io/badge/AWS-Infrastructure-232F3E?style=flat-square)
-![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=flat-square)
 
 ---
 
-## 🛰️ Selected Work
+## 🤖 Selected Agentic Projects
 
-### ☀️ Solar Power Plant Intelligence System
-**Problem:** Energy efficiency varies due to hidden environmental interactions  
-**Solution:** Statistical + data-driven pipeline  
-**Impact:** Actionable insights for sustainable power optimization  
+### 🔹 Agentic AI Chatbot (RAG + Planning)
+**Goal:** Move beyond static prompt-response systems  
+**Built:**  
+- Multi-step reasoning agents  
+- Tool-augmented retrieval  
+- Context persistence across turns  
 
-> *Built end-to-end data pipelines, not dashboards.*
-
----
-
-### 🤖 Agentic AI Chatbot (RAG-Based)
-**Problem:** Static chatbots fail under complex reasoning  
-**Solution:** Multi-step agent reasoning with retrieval  
-**Impact:** Context-aware autonomous assistant  
-
-> *From prompts → plans → actions.*
+**Result:** An autonomous assistant that **plans before responding**.
 
 ---
 
-### 🏥 Multilingual Disease Prediction System
-**Problem:** Language barriers reduce healthcare access  
-**Solution:** NLP-driven multilingual prediction  
-**Impact:** Improved accessibility for non-English users  
+### 🔹 Agentic Data Validation Pipeline
+**Goal:** Prevent silent failures in AI systems  
+**Built:**  
+- Automated validation agents  
+- Statistical & semantic anomaly detection  
+- Agent-driven reporting  
 
-> *AI that adapts to humans, not the other way around.*
-
----
-
-## 🧑‍🚀 Leadership & Impact
-
-- **Junior Agentic AI Developer** — *SmaranAI.in*
-- **Executive Member** — *Startup Cell, MITS*
-- **Technical Head Member** — *Soft Civil Club, MITS*
-
-I enjoy **owning systems**, not just tasks.
+**Result:** Increased trust and reliability in downstream AI decisions.
 
 ---
 
-## 📜 Certifications & Programs
+### 🔹 Multilingual Intelligent Assistant
+**Goal:** Make intelligent systems language-agnostic  
+**Built:**  
+- NLP-driven intent understanding  
+- Language-independent reasoning core  
 
-- ✅ Gen AI Intensive Program  
-- ✅ Google for Startups — *Prompt to Prototype*  
-- ✅ Analytica (TantraFiesta ’24)
+**Result:** Agents adapt to users, not the reverse.
+
+---
+
+## 🧭 How I Think About Agents
+
+> **Agents are not chatbots.**  
+> They are decision-makers operating under uncertainty, constraints, and feedback.
+
+I design agents with:
+- explicit state
+- observable actions
+- evaluatable outcomes
+- controlled autonomy
 
 ---
 
@@ -139,13 +141,6 @@ I enjoy **owning systems**, not just tasks.
 
 ---
 
-## 🧭 Engineering Philosophy
-
-> **“I don’t see datasets as rows and columns.  
-> I see constraints, incentives, uncertainty, and systems waiting to be optimized.”**
-
----
-
 <div align="center">
-  <b>Let’s build intelligence that survives reality.</b>
+  <b>Building agents that reason, not just respond.</b>
 </div>
