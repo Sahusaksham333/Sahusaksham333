@@ -166,15 +166,93 @@ My work emphasizes **robust decision pipelines**, **tool-using agents**, and **p
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 GitHub Contributions & Engineering Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sahusaksham333&show_icons=true&theme=midnight-purple&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahusaksham333&layout=compact&theme=midnight-purple&hide_border=true" height="180"/>
+
+<a href="https://github.com/Sahusaksham333">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sahusaksham333&show_icons=true&count_private=true&include_all_commits=true&theme=midnight-purple&hide_border=true&rank_icon=github" height="180"/>
+</a>
+
+<a href="https://github.com/Sahusaksham333">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahusaksham333&theme=midnight-purple&hide_border=true" height="180"/>
+</a>
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Building_Agents_that_Reason-58A6FF?style=for-the-badge"/>
+
+### 🟣 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahusaksham333&theme=github-compact&hide_border=true&area=true" width="95%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🧩 Building in Public
+
+<table>
+<tr>
+<td align="center">
+<b>💻 Code</b><br/>
+Building AI systems, data pipelines & agentic workflows
+</td>
+<td align="center">
+<b>🔬 Experiment</b><br/>
+Testing models, architectures & reasoning strategies
+</td>
+<td align="center">
+<b>🌐 Contribute</b><br/>
+Improving projects through continuous GitHub activity
+</td>
+<td align="center">
+<b>📚 Learn</b><br/>
+Turning research and experiments into implementations
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Open Source & Contribution Mindset
+
+> **Build → Experiment → Evaluate → Contribute → Repeat**
+
+I am continuously working toward a stronger open-source presence through:
+
+`AI Systems` • `Agentic AI` • `RAG` • `Data Engineering` • `ML Engineering` • `Developer Tools`
+
+<br/>
+
+<a href="https://github.com/Sahusaksham333?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Sahusaksham333?tab=overview&from=2026-01-01&to=2026-12-31">
+  <img src="https://img.shields.io/badge/View_Contribution_Activity-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Sahusaksham333&label=Profile%20Views&color=58A6FF&style=flat-square"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/STATUS-ACTIVELY%20BUILDING-238636?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-AGENTIC%20AI-8957E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MODE-BUILD%20%26%20CONTRIBUTE-1F6FEB?style=for-the-badge"/>
+
 </div>
